@@ -1,0 +1,33 @@
+﻿body
+{
+    text-align:center;
+    background-color:pink;
+}
+#countDown{
+    background-color:peachpuff;
+    color:aqua;
+    width:100%;
+    text-align:center;
+    font_size:2em;
+}
+#countDown > div{
+    display:inline-block;
+    padding:5px;
+    border-radius:5px;
+    background-color:chocolate;
+}
+countDown > div > span{
+    padding:10px;
+    border-radius:5px;
+    background-color:darkgray;
+    display:inline-block;
+}
+input{
+    font-size:1.5em;
+    margin:25px;
+    padding:10px;
+}
+small{
+    padding-top:5px;
+    font-size:0.9em;
+}
